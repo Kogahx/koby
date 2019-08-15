@@ -1,0 +1,52 @@
+[00:00:03] [Client thread/INFO]: [vazkii.chatflow.handler.MessageMeddler:onMessageReceived:24]: §8[§r§5ShadowNode§r§8] §r§aClearing ground items in 1 minute!
+[00:00:03] [Client thread/INFO]: [CHAT] [ShadowNode] Clearing ground items in 1 minute!
+[00:00:14] [Client thread/INFO]: [vazkii.chatflow.handler.MessageMeddler:onMessageReceived:24]: §8[§r§5-§r§8] §r§fDanozack §r§chas left the network.
+[00:00:14] [Client thread/INFO]: [CHAT] [-] Danozack has left the network.
+[00:00:28] [Client thread/INFO]: [vazkii.chatflow.handler.MessageMeddler:onMessageReceived:24]: §8[§r§5+§r§8] §r§fStarCrafter72 §r§ahas joined the network.
+[00:00:28] [Client thread/INFO]: [CHAT] [+] StarCrafter72 has joined the network.
+[00:00:34] [Client thread/INFO]: [vazkii.chatflow.handler.MessageMeddler:onMessageReceived:24]: §8[§r§5-§r§8] §r§fBigiron47 §r§chas left the network.
+[00:00:34] [Client thread/INFO]: [CHAT] [-] Bigiron47 has left the network.
+[00:00:35] [Client thread/INFO]: [vazkii.chatflow.handler.MessageMeddler:onMessageReceived:24]: §8[§r§5-§r§8] §r§fpzycotic §r§chas left the network.
+[00:00:35] [Client thread/INFO]: [CHAT] [-] pzycotic has left the network.
+[00:00:46] [Client thread/INFO]: [vazkii.chatflow.handler.MessageMeddler:onMessageReceived:24]: §8[§r§5-§r§8] §r§fCraftedCreeper01 §r§chas left the network.
+[00:00:46] [Client thread/INFO]: [CHAT] [-] CraftedCreeper01 has left the network.
+[00:01:00] [Client thread/INFO]: [vazkii.chatflow.handler.MessageMeddler:onMessageReceived:24]: Kobanzi§r was slain by §rSpider
+[00:01:00] [Client thread/INFO]: [CHAT] Kobanzi was slain by Spider
+[00:01:13] [Client thread/INFO]: [vazkii.chatflow.handler.MessageMeddler:onMessageReceived:24]: §8[§r§5ShadowNode§r§8] §r§aClearing Ground Items Complete!
+[00:01:13] [Client thread/INFO]: [CHAT] [ShadowNode] Clearing Ground Items Complete!
+[00:01:16] [Client thread/INFO]: [vazkii.chatflow.handler.MessageMeddler:onMessageReceived:24]: §8[§r§5ShadowNode§r§8] §r§eKobanzi§r§a has requested that they teleport to you.
+[00:01:16] [Client thread/INFO]: [CHAT] [ShadowNode] Kobanzi has requested that they teleport to you.
+[00:01:16] [Client thread/INFO]: [vazkii.chatflow.handler.MessageMeddler:onMessageReceived:24]: §nAccept§r - §r§nDeny
+[00:01:16] [Client thread/INFO]: [CHAT] Accept - Deny
+[00:01:17] [Client thread/INFO]: [vazkii.chatflow.handler.MessageMeddler:onMessageReceived:24]: §8[§r§5ShadowNode§r§8] §r§eKobanzi§r§e §r§ateleported to your location.
+[00:01:17] [Client thread/INFO]: [CHAT] [ShadowNode] Kobanzi teleported to your location.
+[00:01:17] [Client thread/INFO]: [vazkii.chatflow.handler.MessageMeddler:onMessageReceived:24]: §8[§r§5ShadowNode§r§8] §r§aYou have accepted the teleport request.
+[00:01:17] [Client thread/INFO]: [CHAT] [ShadowNode] You have accepted the teleport request.
+[00:01:58] [Client thread/INFO]: [vazkii.chatflow.handler.MessageMeddler:onMessageReceived:24]: §8[§r§5-§r§8] §r§fjvjets15 §r§chas left the network.
+[00:01:58] [Client thread/INFO]: [CHAT] [-] jvjets15 has left the network.
+[00:02:24] [Client thread/INFO]: [vazkii.chatflow.handler.MessageMeddler:onMessageReceived:24]: §8[§5ShadowNode§8] §r§aMunkeytree has voted §a@ftbservers.com§a for §e150 tokens
+[00:02:24] [Client thread/INFO]: [CHAT] §8[§5ShadowNode§8] §r§aMunkeytree has voted §a@ftbservers.com§a for §e150 tokens
+[00:02:25] [Client thread/INFO]: [vazkii.chatflow.handler.MessageMeddler:onMessageReceived:24]: §8[§r§5ShadowNode§r§8] §r§eKobanzi§r§a has requested that they teleport to you.
+[00:02:25] [Client thread/INFO]: [CHAT] [ShadowNode] Kobanzi has requested that they teleport to you.
+[00:02:25] [Client thread/INFO]: [vazkii.chatflow.handler.MessageMeddler:onMessageReceived:24]: §nAccept§r - §r§nDeny
+[00:02:25] [Client thread/INFO]: [CHAT] Accept - Deny
+[00:02:28] [Client thread/INFO]: [vazkii.chatflow.handler.MessageMeddler:onMessageReceived:24]: §8[§r§5ShadowNode§r§8] §r§eKobanzi§r§e §r§ateleported to your location.
+[00:02:28] [Client thread/INFO]: [CHAT] [ShadowNode] Kobanzi teleported to your location.
+[00:02:28] [Client thread/INFO]: [vazkii.chatflow.handler.MessageMeddler:onMessageReceived:24]: §8[§r§5ShadowNode§r§8] §r§aYou have accepted the teleport request.
+[00:02:28] [Client thread/INFO]: [CHAT] [ShadowNode] You have accepted the teleport request.
+[00:02:43] [Client thread/INFO]: [vazkii.chatflow.handler.MessageMeddler:onMessageReceived:24]: §cYou don't have §r§6kobanzi§r§c's§r§c permission to interact with the block §r§dminecraft:iron_bars§r§c.
+[00:02:43] [Client thread/INFO]: [CHAT] You don't have kobanzi's permission to interact with the block minecraft:iron_bars.
+[00:02:45] [Client thread/INFO]: [vazkii.chatflow.handler.MessageMeddler:onMessageReceived:24]: §cYou don't have §r§6kobanzi§r§c's§r§c permission to interact with the item §r§dtconstruct:pickaxe§r§c.
+[00:02:45] [Client thread/INFO]: [CHAT] You don't have kobanzi's permission to interact with the item tconstruct:pickaxe.
+[00:02:46] [Client thread/INFO]: [vazkii.chatflow.handler.MessageMeddler:onMessageReceived:24]: §cYou don't have §r§6kobanzi§r§c's§r§c permission to interact with the item §r§dtconstruct:pickaxe§r§c.
+[00:02:46] [Client thread/INFO]: [CHAT] You don't have kobanzi's permission to interact with the item tconstruct:pickaxe.
+[00:02:47] [Client thread/INFO]: [vazkii.chatflow.handler.MessageMeddler:onMessageReceived:24]: §cYou don't have §r§6kobanzi§r§c's§r§c permission to interact with the item §r§dtconstruct:pickaxe§r§c.
+[00:02:47] [Client thread/INFO]: [CHAT] You don't have kobanzi's permission to interact with the item tconstruct:pickaxe.
+[00:02:56] [Client thread/INFO]: [vazkii.chatflow.handler.MessageMeddler:onMessageReceived:24]: §8[§5ShadowNode§8] §r§amunkeytree has voted §a@Minecraft-MP.com§a for §e150 tokens
+[00:02:56] [Client thread/INFO]: [CHAT] §8[§5ShadowNode§8] §r§amunkeytree has voted §a@Minecraft-MP.com§a for §e150 tokens
+[00:02:57] [Client thread/INFO]: [vazkii.chatflow.handler.MessageMeddler:onMessageReceived:24]: §8[§r§5@§r§fDiscord§r§8] §r§r§7[§bMember§7]§r§r§r Lenin§r§e : §r§rGuten Morgan, everyone. How are your days/nights goin?
+[00:02:57] [Client thread/INFO]: [CHAT] [@Discord] §7[§bMember§7]§r Lenin : Guten Morgan, everyone. How are your days/nights goin?
+[00:03:03] [Client thread/INFO]: [vazkii.chatflow.handler.MessageMeddler:onMessageReceived:24]: §8[§r§5@§r§fDW20§r§8] §r§0[§r§5§l§k#§r§5Phantom§r§5§l§k#§r§0]§r§r §r§b~§r§9Rawe§r§f1994§r§r §r§6:§r§r §ryes§r 
+[00:03:03] [Client thread/INFO]: [CHAT] [@DW20] [#Phantom#] ~Rawe1994 : yes 
+[00:03:08] [Client thread/INFO]: [vazkii.chatflow.handler.MessageMeddler:onMessageReceived:24]: §8[§r§5@§r§fDiscord§r§8] §r§r§7[§bMember§7]§r§r§r Lenin§r§e : §r§ryes
+[00:03:08] [Client thread/INFO]: [CHAT] [@Discord] §7[§bMember§7]§r Lenin : yes
